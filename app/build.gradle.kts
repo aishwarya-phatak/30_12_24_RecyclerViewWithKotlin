@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.bitcode.a30_12_24_recyclerviewwithkotlin"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bitcode.a30_12_24_recyclerviewwithkotlin"
